@@ -1,3 +1,5 @@
 markdown: kramdown
 kramdown:
-  syntax_highlighter: rouge # For code highlighting
+  syntax_highlighter: rouge
+  syntax_highlighter_opts:
+    default_lang: lua
