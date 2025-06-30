@@ -4,5 +4,3 @@ github_username: UnidentifiedValue
 
 mardown: kramdown
 highlighter: rouge
-permalink: pretty
-paginate: 5
